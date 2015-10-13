@@ -18,7 +18,6 @@
 package com.andtinder.demo;
 
 import android.app.Activity;
-import android.content.Intent;
 import android.content.res.Resources;
 import android.os.Bundle;
 import android.util.Log;
@@ -50,30 +49,39 @@ public class MainActivity extends Activity {
 		adapter.add(new CardModel("Title1", "Description goes here", r.getDrawable(R.drawable.picture1)));
 		adapter.add(new CardModel("Title2", "Description goes here", r.getDrawable(R.drawable.picture2)));
 		adapter.add(new CardModel("Title3", "Description goes here", r.getDrawable(R.drawable.picture3)));
+		adapter.add(new CardModel("Title4", "Description goes here", r.getDrawable(R.drawable.picture4)));
 		adapter.add(new CardModel("Title4", "Description goes here", r.getDrawable(R.drawable.picture1)));
 		adapter.add(new CardModel("Title5", "Description goes here", r.getDrawable(R.drawable.picture2)));
 		adapter.add(new CardModel("Title6", "Description goes here", r.getDrawable(R.drawable.picture3)));
+		adapter.add(new CardModel("Title4", "Description goes here", r.getDrawable(R.drawable.picture4)));
 		adapter.add(new CardModel("Title1", "Description goes here", r.getDrawable(R.drawable.picture1)));
 		adapter.add(new CardModel("Title2", "Description goes here", r.getDrawable(R.drawable.picture2)));
 		adapter.add(new CardModel("Title3", "Description goes here", r.getDrawable(R.drawable.picture3)));
+		adapter.add(new CardModel("Title4", "Description goes here", r.getDrawable(R.drawable.picture4)));
 		adapter.add(new CardModel("Title4", "Description goes here", r.getDrawable(R.drawable.picture1)));
 		adapter.add(new CardModel("Title5", "Description goes here", r.getDrawable(R.drawable.picture2)));
 		adapter.add(new CardModel("Title6", "Description goes here", r.getDrawable(R.drawable.picture3)));
+		adapter.add(new CardModel("Title4", "Description goes here", r.getDrawable(R.drawable.picture4)));
 		adapter.add(new CardModel("Title1", "Description goes here", r.getDrawable(R.drawable.picture1)));
 		adapter.add(new CardModel("Title2", "Description goes here", r.getDrawable(R.drawable.picture2)));
 		adapter.add(new CardModel("Title3", "Description goes here", r.getDrawable(R.drawable.picture3)));
+		adapter.add(new CardModel("Title4", "Description goes here", r.getDrawable(R.drawable.picture4)));
 		adapter.add(new CardModel("Title4", "Description goes here", r.getDrawable(R.drawable.picture1)));
 		adapter.add(new CardModel("Title5", "Description goes here", r.getDrawable(R.drawable.picture2)));
 		adapter.add(new CardModel("Title6", "Description goes here", r.getDrawable(R.drawable.picture3)));
+		adapter.add(new CardModel("Title4", "Description goes here", r.getDrawable(R.drawable.picture4)));
 		adapter.add(new CardModel("Title1", "Description goes here", r.getDrawable(R.drawable.picture1)));
 		adapter.add(new CardModel("Title2", "Description goes here", r.getDrawable(R.drawable.picture2)));
 		adapter.add(new CardModel("Title3", "Description goes here", r.getDrawable(R.drawable.picture3)));
+		adapter.add(new CardModel("Title4", "Description goes here", r.getDrawable(R.drawable.picture4)));
 		adapter.add(new CardModel("Title4", "Description goes here", r.getDrawable(R.drawable.picture1)));
 		adapter.add(new CardModel("Title5", "Description goes here", r.getDrawable(R.drawable.picture2)));
 		adapter.add(new CardModel("Title6", "Description goes here", r.getDrawable(R.drawable.picture3)));
+		adapter.add(new CardModel("Title4", "Description goes here", r.getDrawable(R.drawable.picture4)));
 		adapter.add(new CardModel("Title1", "Description goes here", r.getDrawable(R.drawable.picture1)));
 		adapter.add(new CardModel("Title2", "Description goes here", r.getDrawable(R.drawable.picture2)));
 		adapter.add(new CardModel("Title3", "Description goes here", r.getDrawable(R.drawable.picture3)));
+		adapter.add(new CardModel("Title4", "Description goes here", r.getDrawable(R.drawable.picture4)));
 		adapter.add(new CardModel("Title4", "Description goes here", r.getDrawable(R.drawable.picture1)));
 		adapter.add(new CardModel("Title5", "Description goes here", r.getDrawable(R.drawable.picture2)));
 
